@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "smol"
+title = "@umarquez | Test Static Web Apps"
